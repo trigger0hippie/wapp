@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+	<Movies>
+	<Movie>
+		<Name>The Godfather</Name>
+		<Year>1972</Year>
+		<IMDB_ID>tt0068646</IMDB_ID>
+		<Cover>https://images-na.ssl-images-amazon.com/images/M/MV5BNTc0ZDk1YWItZDZiNi00NTdmLWE0MDctNTVhYTRhMDBmZjNjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg</Cover>
+	</Movie>
+	<Movie>
+		<Name>Pulp Fiction</Name>
+		<Year>1994</Year>
+		<IMDB_ID>tt0110912</IMDB_ID>
+		<Cover>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SY1000_CR0,0,673,1000_AL_.jpg</Cover>
+	</Movie>
+</Movies>
